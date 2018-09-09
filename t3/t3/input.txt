@@ -1,0 +1,6 @@
+5
+A = {a, {a, b}, <d, e>, <x,y>}
+B = {a, b, c, {f, b}, {a, b}, <x,y>}
+C = {a, b, c, d, {b, a, <r, {r, q, e}>}}
+E = {<a, b>, <b, c>, {a, b, {w, t}}}
+F = {{a, b, <r, {q, e, r}>}, v}
